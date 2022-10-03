@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "src\\bin\\Release\\net6.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/4e949086-68e6-4e47-a875-907d17fc2293/AppServices/subscriptions/4e949086-68e6-4e47-a875-907d17fc2293/resourceGroups/mvphealthsync-rg/providers/Microsoft.Web/sites/MvpBackGroundWorkerDataSync"
+}
